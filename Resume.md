@@ -1,4 +1,4 @@
- 	  <p align="center" > « In the name of Allah »</p> 
+	  « In the name of Allah »
 ‌About me :</br>
 Firstname : Ali </br>
 Lastname  : khorsand Ebrahimi</br>
