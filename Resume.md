@@ -1,6 +1,6 @@
  	   « In the name of Allah » 
 
-About me :</br>
+<textit>About me :</br></textit>
 Firstname : Ali </br>
 Lastname  : khorsand Ebrahimi</br>
 Email address : Ali.kh.ebrahimi@gmail.com </br>
