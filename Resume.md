@@ -1,6 +1,6 @@
  	   « In the name of Allah »  
 
-About me :<hr>
+### About me :
 Firstname : Ali </br>
 Lastname  : khorsand Ebrahimi
 
