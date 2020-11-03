@@ -1,2 +1,2 @@
-	  <b>In the name of Allah </b>
+	  ### In the name of Allah 
 
