@@ -1,4 +1,4 @@
- 	   « In the name of Allah »  
+ 	   <center>« In the name of Allah »<\center>  
 
 About me :</br>
 Firstname : Ali </br>
