@@ -10,10 +10,12 @@ Computer Engineering undergraduate student
 Skills :</br>
 Basic knowledge in </br>
 _ C#</br>
-_ Sql server </br>
-_ CCNA </br>
+_ MySql </br>
+_ Network+ </br>
 _ Php</br>
 _ Unity </br>
+_ PowerPoint,Access </br>
+_ WORD,EXCEL </br>
 <hr>
 Pastime :</br>
 Reading </br>
