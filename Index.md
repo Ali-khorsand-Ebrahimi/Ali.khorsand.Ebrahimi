@@ -14,8 +14,8 @@ _ MySql </br>
 _ Network+ </br>
 _ Php</br>
 _ Unity </br>
-_ PowerPoint,Access </br>
-_ WORD,EXCEL </br>
+_ PowerPoint , Access </br>
+_ WORD , EXCEL </br>
 <hr>
 Pastime :</br>
 Reading </br>
