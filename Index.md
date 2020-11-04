@@ -11,7 +11,7 @@ Skills :</br>
 Basic knowledge in </br>
 _ C#</br>
 _ MySql </br>
-_ Network+ </br>
+_ CCNA  </br>
 _ Php</br>
 _ Unity </br>
 _ PowerPoint , Access </br>
