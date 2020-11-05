@@ -14,7 +14,7 @@ _ MySql </br>
 _ CCNA  </br>
 _ Unity </br>
 _ PowerPoint , Access </br>
-_ WORD , EXCEL <a href="https://drive.google.com/file/d/1WgTDcY1wXcAAVk4GaxjuGjxJshEwbHBS/view?usp=sharing">Certifecate link</a> </br>
+_ WORD , EXCEL  </br>
 <hr>
 Pastime :</br>
 Reading </br>
