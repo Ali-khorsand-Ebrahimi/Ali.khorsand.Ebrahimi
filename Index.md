@@ -23,13 +23,14 @@
 : مهارت ها 
 </h6>
 </br>
+<h6>
 _ Javascript  </br>
 _ C#</br>
 _ MySql </br>
 _ CCNA  </br>
 _ Unity </br>
 _ PowerPoint , Access </br>
-_ WORD , EXCEL 
+_ WORD , EXCEL </h6>
 <hr>
 <h6 align ="right">
 : اوقات فراغت
