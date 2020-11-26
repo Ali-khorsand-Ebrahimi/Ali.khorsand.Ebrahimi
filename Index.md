@@ -4,8 +4,10 @@
 </br>
 <a href="#cv">En</a>
 </br>
-<h6 align ="right">
+<h4 align ="right">
  : درباره من</br>
+<h4>
+<h6 align ="right">
  علی خرسند ابراهیمی </br>
 : پست الکترونیک 
 
