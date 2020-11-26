@@ -2,7 +2,7 @@
 </br>
 <a href="#cv">En</a>
 </br>
-<h4 font-color="blue" ; align ="right">
+<h4 style : "color:blue"  ; align ="right">
  : درباره من</br>
 <h4>
 <h6 align ="right">
