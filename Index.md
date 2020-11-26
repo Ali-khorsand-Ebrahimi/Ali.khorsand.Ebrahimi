@@ -22,7 +22,7 @@
 
 : مهارت ها 
 </h6>
-</br>
+
 <h6>
 _ Javascript  </br>
 _ C#</br>
