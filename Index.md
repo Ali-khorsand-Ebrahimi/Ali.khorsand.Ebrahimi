@@ -4,6 +4,9 @@
 </br>
 درباره من:‌</br>
  علی خرسند ابراهیمی </br>
+پست الکترونیک :‌</br>
+Ali.kh.ebrahimi@gmail.com</br>
+<hr>
 ‌<h3 id="cv">About me :</h3></br>
 Firstname : Ali </br>
 Lastname  : khorsand Ebrahimi</br>
