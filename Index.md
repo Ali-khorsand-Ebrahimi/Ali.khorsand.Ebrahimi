@@ -10,6 +10,25 @@ Ali.kh.ebrahimi@gmail.com</br>
 تحصیلات ‌‌:‌</br>
 دانشجوی مهندسی کامپیوتر 
 </br>
+<hr>
+</br>
+مهارت ها :
+</br>
+_ Javascript  </br>
+_ C#</br>
+_ MySql </br>
+_ CCNA  </br>
+_ Unity </br>
+_ PowerPoint , Access </br>
+_ WORD , EXCEL  </br>
+<hr>
+</br>
+اوقات فراغت :
+</br>
+ مطالعه </br>
+بازی های کامپیوتری 
+</br>
+<hr>
 ‌<h3 id="cv">About me :</h3></br>
 Firstname : Ali </br>
 Lastname  : khorsand Ebrahimi</br>
