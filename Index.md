@@ -1,6 +1,6 @@
 		«به نام خدا» 
 </br>
-<a href="#v">To_English<‌/a><‌‌/br>
+<a href="#vt">English<‌/a><‌‌/br>
 ب
 ب
 ب
@@ -18,7 +18,7 @@
 ب
 ب
 
-‌<h3 id="v">About me :</h3></br>
+‌<h3 id="vt">About me :</h3></br>
 Firstname : Ali </br>
 Lastname  : khorsand Ebrahimi</br>
 Email address : Ali.kh.ebrahimi@gmail.com </br>
