@@ -2,16 +2,16 @@
 </br>
 <a href="#cv">English</a>
 </br>
-درباره من:‌</br>
+درباره من:</br>
  علی خرسند ابراهیمی </br>
-پست الکترونیک :‌</br>
+پست الکترونیک :</br>
 Ali.kh.ebrahimi@gmail.com
 <hr>
-تحصیلات ‌‌:‌</br>
+تحصیلات :
 دانشجوی مهندسی کامپیوتر 
-</br>
+
 <hr>
-</br>
+
 مهارت ها :
 </br>
 _ Javascript  </br>
@@ -20,19 +20,19 @@ _ MySql </br>
 _ CCNA  </br>
 _ Unity </br>
 _ PowerPoint , Access </br>
-_ WORD , EXCEL  </br>
+_ WORD , EXCEL 
 <hr>
-</br>
+
 اوقات فراغت :
 </br>
  مطالعه </br>
 بازی های کامپیوتری 
-</br>
+
 <hr>
-‌<h3 id="cv">About me :</h3></br>
+<h3 id="cv">About me :</h3></br>
 Firstname : Ali </br>
 Lastname  : khorsand Ebrahimi</br>
-Email address : Ali.kh.ebrahimi@gmail.com </br>
+Email address : Ali.kh.ebrahimi@gmail.com 
 <hr>
 Education :</br>
 Computer Engineering undergraduate student
@@ -45,9 +45,9 @@ _ MySql </br>
 _ CCNA  </br>
 _ Unity </br>
 _ PowerPoint , Access </br>
-_ WORD , EXCEL  </br>
+_ WORD , EXCEL 
 <hr>
 Pastime :</br>
 Reading </br>
-Video games </br>
+Video games
 <hr>
