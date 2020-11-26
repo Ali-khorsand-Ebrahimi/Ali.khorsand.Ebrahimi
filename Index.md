@@ -1,6 +1,7 @@
 		«به نام خدا» 
 </br>
-<a href="#C3">English<‌/a><‌‌/br>
+<a href="#C3">English<‌/a>
+</br>
 ب
 ب
 ب
