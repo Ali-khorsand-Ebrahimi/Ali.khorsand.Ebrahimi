@@ -1,6 +1,6 @@
 <h3 align ="center">«به نام خدا» </h3>
 </br>
-<a href="#cv">En</a>
+<a href="#cv">To English</a>
 <h4 align ="right" >
 : درباره من
 </h4>
