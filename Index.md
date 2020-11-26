@@ -15,7 +15,7 @@ Ali.kh.ebrahimi@gmail.com
 
 </br>
 <hr>
-<h6>
+<h6 align ="right">
 تحصیلات :</br>
 دانشجوی مهندسی کامپیوتر 
 
@@ -32,7 +32,7 @@ _ Unity </br>
 _ PowerPoint , Access </br>
 _ WORD , EXCEL 
 <hr>
-<h6>
+<h6 align ="right">
 : اوقات فراغت
 </br>
  مطالعه </br>
