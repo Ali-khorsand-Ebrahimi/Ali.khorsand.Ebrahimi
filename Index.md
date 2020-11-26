@@ -5,7 +5,7 @@
 درباره من:‌</br>
  علی خرسند ابراهیمی </br>
 پست الکترونیک :‌</br>
-Ali.kh.ebrahimi@gmail.com</br>
+Ali.kh.ebrahimi@gmail.com
 <hr>
 تحصیلات ‌‌:‌</br>
 دانشجوی مهندسی کامپیوتر 
