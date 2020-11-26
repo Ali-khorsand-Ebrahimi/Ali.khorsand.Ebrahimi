@@ -1,4 +1,5 @@
-<h2 align ="center">		«به نام خدا» </h2>
+<body bgcolor ="green">
+<h2 align ="center">«به نام خدا» </h2>
 </br>
 <a href="#cv">En</a>
 </br>
