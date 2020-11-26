@@ -1,5 +1,5 @@
 <html>
-<body bgcolor ='red'>
+<body bgcolor ='#fa5632'>
 <h2 align ="center">«به نام خدا» </h2>
 </br>
 <a href="#cv">En</a>
