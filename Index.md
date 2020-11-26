@@ -1,6 +1,6 @@
-<p1 align="center">		«به نام خدا» </p1>
+<p1>		«به نام خدا» </p1>
 </br>
-<a href="#cv">To English</a>
+<a href="#cv">En</a>
 </br>
 درباره من:</br>
  علی خرسند ابراهیمی </br>
