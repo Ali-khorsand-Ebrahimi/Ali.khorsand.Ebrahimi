@@ -4,12 +4,12 @@
 </br>
 <a href="#cv">En</a>
 </br>
-<h3 align ="right">
+<h6 align ="right">
  : درباره من</br>
  علی خرسند ابراهیمی </br>
 : پست الکترونیک 
 </br>
-</h3>
+</h6>
 Ali.kh.ebrahimi@gmail.com
 
 </br>
