@@ -9,6 +9,7 @@ Computer Engineering undergraduate student
 <hr>
 Skills :</br>
 Basic knowledge in </br>
+_ Javascript  </br>
 _ C#</br>
 _ MySql </br>
 _ CCNA  </br>
