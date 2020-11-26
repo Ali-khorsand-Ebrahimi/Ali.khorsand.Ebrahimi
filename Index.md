@@ -4,8 +4,11 @@
 </br>
 درباره من:</br>
  علی خرسند ابراهیمی </br>
-پست الکترونیک :</br>
+پست الکترونیک :
+</br>
+
 Ali.kh.ebrahimi@gmail.com
+</br>
 <hr>
 تحصیلات :
 دانشجوی مهندسی کامپیوتر 
@@ -29,7 +32,7 @@ _ WORD , EXCEL
 بازی های کامپیوتری 
 
 <hr>
-<h3 id="cv">About me :</h3></br>
+<h3 id="cv">About me :</h3>
 Firstname : Ali </br>
 Lastname  : khorsand Ebrahimi</br>
 Email address : Ali.kh.ebrahimi@gmail.com 
