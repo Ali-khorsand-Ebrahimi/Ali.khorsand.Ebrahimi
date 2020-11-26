@@ -6,7 +6,10 @@
  علی خرسند ابراهیمی </br>
 پست الکترونیک :‌</br>
 Ali.kh.ebrahimi@gmail.com</br>
-<hr>
+<hr></br>
+تحصیلات ‌‌:‌</br>
+دانشجوی مهندسی کامپیوتر 
+</br>
 ‌<h3 id="cv">About me :</h3></br>
 Firstname : Ali </br>
 Lastname  : khorsand Ebrahimi</br>
