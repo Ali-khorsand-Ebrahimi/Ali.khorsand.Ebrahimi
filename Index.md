@@ -1,4 +1,4 @@
-		«به نام خدا» 
+<p1 align="center">		«به نام خدا» </p1>
 </br>
 <a href="#cv">To English</a>
 </br>
