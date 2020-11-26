@@ -5,7 +5,7 @@
 : درباره من
 </h4>
 
-<h6 style="background-color:red;"  >
+<h6 align ="right" >
  علی خرسند ابراهیمی </br></br>
 : پست الکترونیک 
 
