@@ -1,4 +1,4 @@
-<h1>		«به نام خدا» </h1>
+<h1 align ="center">		«به نام خدا» </h1>
 </br>
 <a href="#cv">En</a>
 </br>
