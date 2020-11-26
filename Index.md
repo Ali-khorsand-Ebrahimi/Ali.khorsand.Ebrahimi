@@ -11,12 +11,13 @@
 
 </h6>
 </br>
-Ali.kh.ebrahimi@gmail.com
+
+ Ali.kh.ebrahimi@gmail.com
 
 </br>
 <hr>
 <h6 align ="right">
-تحصیلات :</br>
+: تحصیلات</br>
 دانشجوی مهندسی کامپیوتر 
 
 <hr>
@@ -35,8 +36,8 @@ _ WORD , EXCEL
 <h6 align ="right">
 : اوقات فراغت
 </br>
- مطالعه </br>
-بازی های کامپیوتری 
+ مطالعه_ </br>
+بازی های کامپیوتری_ 
 </h6>
 <hr>
 <h3 id="cv">About me :</h3>
