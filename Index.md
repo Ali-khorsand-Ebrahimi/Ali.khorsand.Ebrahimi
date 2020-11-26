@@ -1,3 +1,4 @@
+<html>
 <body bgcolor ="green">
 <h2 align ="center">«به نام خدا» </h2>
 </br>
@@ -57,3 +58,5 @@ Pastime :</br>
 Reading </br>
 Video games
 <hr>
+</body>
+</html>
