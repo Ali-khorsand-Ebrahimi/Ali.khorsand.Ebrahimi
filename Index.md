@@ -17,7 +17,7 @@
  Ali.kh.ebrahimi@gmail.com
 <hr>
 <h6 align ="right">
-: تحصیلات</br>
+: تحصیلات</br></br>
 دانشجوی مهندسی کامپیوتر 
 
 <hr>
