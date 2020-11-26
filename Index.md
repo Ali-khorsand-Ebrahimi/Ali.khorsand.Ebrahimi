@@ -1,6 +1,4 @@
-<html>
-<body bgcolor ='#fa5632'>
-<h2 align ="center">«به نام خدا» </h2>
+<b align ="center">«به نام خدا» </b>
 </br>
 <a href="#cv">En</a>
 </br>
