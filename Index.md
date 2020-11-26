@@ -1,8 +1,8 @@
-<b align ="center">«به نام خدا» </b>
+<h3 align ="center">«به نام خدا» </h3>
 </br>
 <a href="#cv">En</a>
 </br>
-<h4 align ="right">
+<h4 font-color="blue" ; align ="right">
  : درباره من</br>
 <h4>
 <h6 align ="right">
