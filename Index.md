@@ -1,9 +1,10 @@
 <h3 align ="center">«به نام خدا» </h3>
 </br>
+<a href="#cv">En</a>
 <h4 align ="right" >
 : درباره من
 </h4>
-<a href="#cv">En</a>
+
 <h6 align ="right">
  علی خرسند ابراهیمی </br></br>
 : پست الکترونیک 
