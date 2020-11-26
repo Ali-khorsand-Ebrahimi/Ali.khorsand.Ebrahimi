@@ -1,13 +1,15 @@
-<h1 align ="center">		«به نام خدا» </h1>
+<h2 align ="center">		«به نام خدا» </h2>
 </br>
 <a href="#cv">En</a>
 </br>
+<h3 align ="right">
 درباره من:</br>
  علی خرسند ابراهیمی </br>
 پست الکترونیک :
 </br>
 
 Ali.kh.ebrahimi@gmail.com
+</h3>
 </br>
 <hr>
 تحصیلات :</br>
