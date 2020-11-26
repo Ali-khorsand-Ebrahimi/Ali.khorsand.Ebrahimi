@@ -15,8 +15,6 @@
 </br>
 
  Ali.kh.ebrahimi@gmail.com
-
-</br>
 <hr>
 <h6 align ="right">
 : تحصیلات</br>
@@ -37,7 +35,7 @@ _ WORD , EXCEL
 <hr>
 <h6 align ="right">
 : اوقات فراغت
-</br>
+</br></br>
  مطالعه_ </br>
 بازی های کامپیوتری_ 
 </h6>
