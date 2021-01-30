@@ -9,9 +9,10 @@
  سلام ،من علی خرسند ابراهیمی دانشجوی کامپیوتر دانشگاه پیام نور پردیس </br></br>هستم علاقه مند به رباتیک و ساخت بازی های کامپیوتری
 </h6>
 </br>
-<h6 align ="left">
-Ali.kh.ebrahimi@gmail.com</h6>
 <h6 align="right">: پست الکترونیک </h6>
+
+Ali.kh.ebrahimi@gmail.com
+
  
  
 <hr>
@@ -32,6 +33,12 @@ _ CCNA  </br>
 _ Unity </br>
 _ PowerPoint , Access </br>
 _ WORD , EXCEL </h6>
+<hr>
+<h6>
+:سوابق کاری
+</br>
+ کارمتد پشتیبانی مرکز تماس های وب (12 ماه)
+</h6>
 <hr>
 <h6 align ="right">
 : اوقات فراغت
