@@ -37,9 +37,10 @@ _ WORD , EXCEL </h6>
 <hr>
 <h6 align="right">
 :دوره های آموزشی
+
+</h6>
 </br>
 ICDL 2003
-</h6>
 <hr>
 <h6 align="right">
 :سوابق کاری
