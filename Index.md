@@ -82,6 +82,10 @@ _ Unity </br>
 _ PowerPoint , Access </br>
 _ WORD , EXCEL 
 <hr>
+Language Skills:
+</br>persian _______________________ ****** (100%)</br>
+English _______________________ *** (50%)
+<hr>
 Jobs records:
 </br>
 HIWEB callcenter employee (12 months)
