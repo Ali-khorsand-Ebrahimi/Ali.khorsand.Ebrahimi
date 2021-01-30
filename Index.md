@@ -8,13 +8,10 @@
 <h6 align ="right" >
  سلام ،من علی خرسند ابراهیمی دانشجوی کامپیوتر دانشگاه پیام نور پردیس </br></br>هستم علاقه مند به رباتیک و ساخت بازی های کامپیوتری
 </h6>
-</br>
-<h6 align ="right" font-color="black">: پست الکترونیک </h6>
-
-
-
-
- Ali.kh.ebrahimi@gmail.com
+</br>Ali.kh.ebrahimi@gmail.com
+<h6 align ="right">: پست الکترونیک </h6>
+ 
+ 
 <hr>
 <h6 align ="right">
 : تحصیلات</br></br>
