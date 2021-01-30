@@ -11,7 +11,7 @@
 </br>
 <h6 align ="left">
 Ali.kh.ebrahimi@gmail.com</h6>
-<h6>: پست الکترونیک </h6>
+<h6 align="right">: پست الکترونیک </h6>
  
  
 <hr>
