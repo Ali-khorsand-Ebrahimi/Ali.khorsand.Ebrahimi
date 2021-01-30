@@ -19,7 +19,7 @@ Ali.kh.ebrahimi@gmail.com
 <hr>
 <h6 align ="right">
 : تحصیلات</br></br>
-دانشجوی مهندسی کامپیوتر 
+دانشجوی مهندسی کامپیوتر دانشگاه پیام نور واحد پردیس
 
 <hr>
 
@@ -54,7 +54,8 @@ Lastname  : khorsand Ebrahimi</br>
 Email address : Ali.kh.ebrahimi@gmail.com 
 <hr>
 Education :</br>
-Computer Engineering undergraduate student
+Computer Engineering undergraduate student</br>
+payam-e noor university (pardis branch)
 <hr>
 Skills :</br>
 Basic knowledge in </br>
