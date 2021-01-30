@@ -5,9 +5,10 @@
 : درباره من
 </h4>
 
-<h6 align ="right"><font color="black">
+<h6 align ="right">
+
  سلام ،من علی خرسند ابراهیمی دانشجوی کامپیوتر دانشگاه پیام نور پردیس </br></br>هستم علاقه مند به رباتیک و ساخت بازی های کامپیوتری
-</font></h6>
+</h6>
 </br>
 <h6 align="right">: پست الکترونیک </h6>
 
@@ -34,7 +35,7 @@ _ Unity </br>
 _ PowerPoint , Access </br>
 _ WORD , EXCEL </h6>
 <hr>
-<h6>
+<h6 align="right">
 :سوابق کاری
 </br>
  کارمتد پشتیبانی مرکز تماس های وب (12 ماه)
@@ -64,6 +65,10 @@ _ CCNA  </br>
 _ Unity </br>
 _ PowerPoint , Access </br>
 _ WORD , EXCEL 
+<hr>
+Jobs records:
+</br>
+HIWEB callcenter employee (12 months)
 <hr>
 Pastime :</br>
 Reading </br>
