@@ -83,7 +83,7 @@ _ PowerPoint , Access </br>
 _ WORD , EXCEL 
 <hr>
 Language Skills:
-</br>persian _______________________ ****** (100%)</br>
+</br>Persian _______________________ ****** (100%)</br>
 English _______________________ *** (50%)
 <hr>
 Jobs records:
