@@ -36,6 +36,12 @@ _ PowerPoint , Access </br>
 _ WORD , EXCEL </h6>
 <hr>
 <h6 align="right">
+:دوره های آموزشی
+</br>
+ICDL 2003
+</h6>
+<hr>
+<h6 align="right">
 :سوابق کاری
 </br>
  کارمتد پشتیبانی مرکز تماس های وب (12 ماه)
@@ -70,6 +76,10 @@ _ WORD , EXCEL
 Jobs records:
 </br>
 HIWEB callcenter employee (12 months)
+<hr>
+Courses:
+</br>
+ICDL 2003
 <hr>
 Pastime :</br>
 Reading </br>
